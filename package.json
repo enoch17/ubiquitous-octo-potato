@@ -1,0 +1,27 @@
+{
+  "name": "ubiquitous-octo-potato",
+  "version": "1.0.0",
+  "description": "Test Jenkins",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enoch17/ubiquitous-octo-potato.git"
+  },
+  "author": "Enoch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enoch17/ubiquitous-octo-potato/issues"
+  },
+  "homepage": "https://github.com/enoch17/ubiquitous-octo-potato#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1",
+    "supertest": "^6.2.2"
+  }
+}
