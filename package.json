@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/enoch17/ubiquitous-octo-potato#readme",
   "dependencies": {
+    "cryptify": "^4.1.2",
     "express": "^4.17.3"
   },
   "devDependencies": {
